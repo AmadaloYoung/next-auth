@@ -39,24 +39,24 @@ We can all agree Auth is the most important foundation of a project. It takes mo
 
 #### Road to accomplishment;
 
-~ Project setup
-~ Home page
-~ Card wrapper
-~ Login form
-~ Register form
-~ Database & Prisma setup
-~ Create user
-~ Middleware & Login
-~ Callbacks
-~ OAuth (Google & Github)
-~ Resend (Sending emails)
-~ Email verification
-~ Reset password email
-~ Reset password form
-~ Two factor authentication
-~ User button
-~ Server & Client example
-~ Admin example
-~ Settings page
-~ Sponsor demo
-~ Deployment
+- Project setup
+- Home page
+- Card wrapper
+- Login form
+- Register form
+- Database & Prisma setup
+- Create user
+- Middleware & Login
+- Callbacks
+- OAuth (Google & Github)
+- Resend (Sending emails)
+- Email verification
+- Reset password email
+- Reset password form
+- Two factor authentication
+- User button
+- Server & Client example
+- Admin example
+- Settings page
+- Sponsor demo
+- Deployment
